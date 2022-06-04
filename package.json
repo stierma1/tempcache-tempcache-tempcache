@@ -1,0 +1,25 @@
+{
+  "name": "tempcache-tempcache-tempcache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/tempcache-tempcache-tempcache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/tempcache-tempcache-tempcache/issues"
+  },
+  "homepage": "https://github.com/stierma1/tempcache-tempcache-tempcache#readme",
+  "dependencies": {
+    "bus-bus-bus": "^1.0.0",
+    "cp-file": "^9.1.0",
+    "mkdirp": "^1.0.4",
+    "rimraf": "^3.0.2"
+  }
+}
